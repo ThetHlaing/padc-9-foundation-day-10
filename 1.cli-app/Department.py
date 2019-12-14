@@ -19,6 +19,9 @@ class Department(BaseModel):
         self.id = Database._cursor.lastrowid
         self.display()
 
+    def update(self):
+        pass
+
     def display(self):
         print(f'[{self.id}] - {self.name} Department')
 
