@@ -1,1 +1,5 @@
 - Create an company work flow
+- Ability to hire employees (enginner, accountance)
+- Ability to fire employees
+- Ability to accept project
+- Employees need to work base on the accepted project type
